@@ -1,0 +1,57 @@
+[04:45:41] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.2
+[04:45:41] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.11
+[04:45:41] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/ad/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[04:45:46] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[04:45:48] [main/INFO]: Loaded 1470 recipes
+[04:45:48] [main/INFO]: Loaded 1584 advancements
+[04:45:48] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[04:45:48] [Server thread/INFO]: Loading properties
+[04:45:48] [Server thread/INFO]: Default game type: SURVIVAL
+[04:45:48] [Server thread/INFO]: Generating keypair
+[04:45:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:45:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:45:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:45:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:45:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:45:48] [Server thread/INFO]: Preparing level "world"
+[04:45:49] [Server thread/INFO]: Loading 0 persistent chunks...
+[04:45:49] [Server thread/INFO]: Preparing spawn area: 100%
+[04:45:49] [Server thread/INFO]: Time elapsed: 15 ms
+[04:45:49] [Server thread/INFO]: Done (0.431s)! For help, type "help"
+[04:46:03] [Server thread/INFO]: Goodshadysalt[/127.99.104.15:58105] logged in with entity id 86 at (329.30000001192093, 68.0, -640.6999999880791)
+[04:46:03] [Server thread/INFO]: Goodshadysalt joined the game
+[04:47:52] [Server thread/INFO]: _Sup3r__[/127.151.52.171:58393] logged in with entity id 640 at (230.61818940911243, 177.20460988732304, -723.4524735700329)
+[04:47:52] [Server thread/INFO]: _Sup3r__ joined the game
+[04:48:10] [Server thread/INFO]: [_Sup3r__: Gamerule locator_bar is now set to: false]
+[04:48:23] [Server thread/INFO]: [_Sup3r__: Applied effect Speed to _Sup3r__]
+[04:49:25] [Server thread/WARN]: _Sup3r__ moved too quickly! -2.957121832595192,-3.3750001306643895,9.318053438983725
+[04:50:58] [Server thread/INFO]: [_Sup3r__: Gamerule locator_bar is now set to: true]
+[04:51:03] [Server thread/INFO]: [_Sup3r__: Removed every effect from _Sup3r__]
+[04:51:07] [Server thread/INFO]: [_Sup3r__: Set own game mode to Survival Mode]
+[04:51:28] [Server thread/INFO]: [_Sup3r__: Applied effect Speed to _Sup3r__]
+[04:51:41] [Server thread/INFO]: Goodshadysalt has made the advancement [Best Friends Forever]
+[04:54:05] [Server thread/INFO]: [_Sup3r__: Removed every effect from _Sup3r__]
+[04:54:43] [Server thread/INFO]: [Not Secure] <_Sup3r__> 1 heartt
+[04:56:43] [Server thread/INFO]: _Sup3r__ has made the advancement [Best Friends Forever]
+[04:57:45] [Server thread/INFO]: [Not Secure] <_Sup3r__> gtg
+[04:57:45] [Server thread/INFO]: _Sup3r__ lost connection: Disconnected
+[04:57:45] [Server thread/INFO]: _Sup3r__ left the game
+[04:58:18] [Server thread/WARN]: Goodshadysalt moved too quickly! 8.339214649785106,-0.8322033533667508,5.655154631789969
+[04:59:34] [Server thread/INFO]: Goodshadysalt lost connection: Disconnected
+[04:59:34] [Server thread/INFO]: Goodshadysalt left the game
+[05:00:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[05:02:34] [Server thread/INFO]: Stopping the server
+[05:02:34] [Server thread/INFO]: Stopping server
+[05:02:34] [Server thread/INFO]: Saving players
+[05:02:34] [Server thread/INFO]: Saving worlds
+[05:02:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:02:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:02:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:02:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:02:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:02:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:02:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
